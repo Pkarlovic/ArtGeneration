@@ -11,7 +11,7 @@ Cat faces data can be retrieved at: https://www.kaggle.com/spandan2/cats-faces-6
 Bob Ross data can be retrieved at: https://github.com/jwilber/Bob_Ross_Paintings
 
 
-Generative Output Time Lapse can be viewed on youtube at: 
+Check out some of the Generative Output Time Lapses which can be viewed on youtube at: 
 
 Time lapse GAN with Minimalist artworks: https://youtu.be/5H_eSOPznKw
 
